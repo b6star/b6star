@@ -21,6 +21,8 @@
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Aes_gcm_attack)](https://github.com/b6star/Aes_gcm_attack)
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=AES-128-Implementation)](https://github.com/b6star/AES-128-Implementation)
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Symmetric_Key_algorithm)](https://github.com/b6star/Symmetric_Key_algorithm)
+[![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=SQLi-Labs-edited-version)](https://github.com/b6star/SQLi-Labs-edited-version)
+
 
 
 
@@ -31,3 +33,5 @@
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=yourssu&repo=Soongsil-Life-Android)](https://github.com/yourssu/Soongsil-Life-Android)
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Focus_Wave)](https://github.com/b6star/Focus_Wave)
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Smart-Spend-AI)](https://github.com/b6star/Smart-Spend-AI)
+[![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Agent-Chat-UI-Sample)](https://github.com/b6star/Agent-Chat-UI-Sample)
+
