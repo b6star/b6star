@@ -13,9 +13,13 @@
  
 ## GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=b6star&show_icons=true&hide=issues&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=b6star&show_icons=true&hide=issues&theme=tokyonight&v=2)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=b6star&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=b6star&layout=compact&langs_count=6&theme=tokyonight&v=2)
+
+<!--
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=b6star&layout=compact&langs_count=6&theme=tokyonight&size_weight=0&count_weight=1)
+-->
 
 ## Cryptography & Security
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Aes_gcm_attack)](https://github.com/b6star/Aes_gcm_attack)
