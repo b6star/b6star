@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=b6star&layout=compact&langs_count=6&theme=tokyonight)
 
-## 보안 관련 Repository
+## Cryptography & Security
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Aes_gcm_attack)](https://github.com/b6star/Aes_gcm_attack)
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=AES-128-Implementation)](https://github.com/b6star/AES-128-Implementation)
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Symmetric_Key_algorithm)](https://github.com/b6star/Symmetric_Key_algorithm)
@@ -35,3 +35,17 @@
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Smart-Spend-AI)](https://github.com/b6star/Smart-Spend-AI)
 [![Repository Card](https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=Agent-Chat-UI-Sample)](https://github.com/b6star/Agent-Chat-UI-Sample)
 
+## Scriptable (iOS Widget)
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/b6star/daysUntilBirthday">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=b6star&repo=daysUntilBirthday" alt="Repository Card" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github.com/b6star/daysUntilBirthday/blob/main/screenshots/one-by-one-lite.jpeg"
+        width="250" alt="iOS Widget" />
+      </td>
+    </tr>
+  </table>
